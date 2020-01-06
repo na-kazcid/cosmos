@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: private_page
 title: "Coding Problems"
 exclude: true
 private: true
 ---
+
 
 ## Hard
 - [Verbal Arithmetic Puzzle - LeetCode](https://leetcode.com/problems/verbal-arithmetic-puzzle/)
